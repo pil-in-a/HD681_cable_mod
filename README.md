@@ -1,5 +1,15 @@
 # Superlux HD681 evo female jack modification
-Model of plastic shroud, which could be 3D printed to modify Superlux HD681 evo headphones. When modified, there is 2,5 stereo jack FEMALE connector on headphones side.
+Those Superlux are pretty sweet headhones for a bargain. You can find really deep reviews online confirming it. However, there is weak point with dettachable cable being easily broken.
+
+Possible solution:
+
+Model of plastic shroud, which could be 3D printed to modify headphones. When modified, there is 3,5 stereo jack FEMALE connector on headphones side.
+
+<img src="photos/fully_assmebled.jpg" alt="description" width="400">
+
+You can find bit more photos in /photos folder.
+
+# Model itself
 
 So far it is modelled in Onshape - [here](https://cad.onshape.com/documents/4c3d843f2ff8cdebbb459ed5/w/b33f9f53c3e60e8472fe16ad/e/c8f1bec9beb9d15aaf60b6e4?renderMode=0&uiState=69455eb6564b32d0803d8db6)
 
@@ -10,5 +20,5 @@ So far it is modelled in Onshape - [here](https://cad.onshape.com/documents/4c3d
 - PLA filament
 
 # Roadmap
-- [ ] Do second revision with few tweaks
+- [x] Do second revision with few tweaks
 - [ ] Do FreeCAD remodelling and upload it
